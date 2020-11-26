@@ -10,6 +10,6 @@ Once you have clicked the link simply click the *Add book* button, and you will 
 
 ### Links to my other projects
 
-- Etch-a-sketch [live preview](https://dan14mem.github.io/etch-a-sketch/) [source code](https://github.com/dan14mem/etch-a-sketch)
-- Rock Paper Scissors [live preview](https://dan14mem.github.io/RockPaperScissors/) [source code](https://github.com/dan14mem/RockPaperScissors)
-- Google home page reproduction [live preview](https://dan14mem.github.io/google-homepage/)[source code](https://github.com/dan14mem/google-homepage)
+- Etch-a-sketch [live preview](https://dan14mem.github.io/etch-a-sketch/) | [source code](https://github.com/dan14mem/etch-a-sketch)
+- Rock Paper Scissors [live preview](https://dan14mem.github.io/RockPaperScissors/) | [source code](https://github.com/dan14mem/RockPaperScissors)
+- Google home page reproduction [live preview](https://dan14mem.github.io/google-homepage/) | [source code](https://github.com/dan14mem/google-homepage)
