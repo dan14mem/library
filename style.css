@@ -1,0 +1,124 @@
+.colours {
+    background-color: #e63946; /* header */
+    background-color: #f1faee; /* body background */
+    background-color: #a8dadc; /* div/card background */
+    background-color: #457b9d; /* border backgrounds */
+    background-color: #1d3557; /* font colour */
+    
+}
+.top-nav {
+   
+   background-color: #a8dadc;
+   overflow: hidden;
+   width: 100%;
+   margin: 0;
+   
+   
+}
+.top-nav ul {
+    margin: 0
+}
+.top-nav li {
+    display: inline;
+    list-style: none;
+    margin: 0;
+}
+.top-nav a {
+    color: #1d3557;
+    text-align: center;
+    float: right;
+    padding: 14px 16px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+
+body {
+    background-color: #f1faee;
+}
+.header {
+    height: 3em;
+    text-align: center;  
+    font-size: 50px;
+    color: #2f568d;
+    background-color: #e63946;
+    margin: 0%;
+
+}
+.header h1 {
+    margin: 0%;
+}
+.bookshelf li {
+   list-style: none;
+   padding: 5px;
+
+}   
+.book {
+   /* visibility: hidden; */
+   padding: 10px;
+}
+#modal {
+    background-color: white;
+    display: none;
+    padding: none;
+    position: fixed;
+    text-align: center;
+    z-index: 1; /* lets it sit on top */
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0);
+    background-color: rgba(0,0,0,0.4); /* Black with opacity */
+}
+.modal-content {
+    background-color: #a8dadc;
+    margin: 15% auto;
+    padding: 20px;
+    border: 5px solid #457b9d;
+    width: 80%;
+}
+
+.form-popup h1 {
+padding: 0;
+}
+.form-popup li {
+    padding: 5px
+}
+.close {
+    float: right;
+    font-weight: bold;
+    display: block;
+    font-size: 20px;
+
+}
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.library-container {
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto;
+}
+.card {
+    /* Add shadows to create the "card" effect */
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+    width: 100%;
+  }
+
+
+
